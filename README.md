@@ -1,3 +1,4 @@
 # 개요
 
-Kaggle 대회 관련 자료나 코드, Kaggle courses 정리 자료 입력
+Kaggle courses 관련 자료 정리 및 연습문제 풀이
+
